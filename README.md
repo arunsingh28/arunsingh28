@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunsingh28
 - 👀 I’m interested in webdevelopement
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on socket.io
+- 💞️ I’m looking to collaborate on three.js
 - 📫 IG arun.singh28
 - 📫 SC arun28aug
 
