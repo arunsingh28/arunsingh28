@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunsingh28
-- 👀 I’m interested in webdevelopement
+- 👀 I’m interested in live site
 - 🌱 I’m currently learning three.js & GSAP
 - 💞️ I’m looking to collaborate on socket.io
 - 📫 IG arun.singh28
