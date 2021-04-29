@@ -29,7 +29,7 @@ Currently i'm working on socket.io and GSAP.
  - personal trainer
  - diet plan
  - exercise plan
- - 
+
 
 **[capstone]**(https://work.vegihub.in)
 > My capstone project 
