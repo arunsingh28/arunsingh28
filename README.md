@@ -12,6 +12,7 @@ i'm a web developer who is passionate about computer technologies,i enjoy workin
 
 ### find me around the web 🌎
 > 🤙 instagram **[arun.singh28]**(https://instagram.com/arun.singh28)
+
 > 💻 Linkedin **[arunsingh28]**(https://www.linkedin.com/in/arunsingh28/)
 
 <!--- arunsingh28/arunsingh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
