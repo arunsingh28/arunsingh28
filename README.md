@@ -1,4 +1,4 @@
-#Arun Pratap Singh
+# Arun Pratap Singh
 - 👋 Hi, I’m @arunsingh28
 - 👀 I’m interested in live site
 - 🌱 I’m currently learning three.js & GSAP
