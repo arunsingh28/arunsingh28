@@ -1,5 +1,5 @@
-# Arun Pratap Singh
-- 👋 Hi, I’m @arunsingh28
+# 👋 Hi, Arun Pratap Singh
+
 - 👀 I’m interested in live site
 - 🌱 I’m currently learning three.js & GSAP
 - 💞️ I’m looking to collaborate on socket.io
