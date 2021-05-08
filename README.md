@@ -23,7 +23,7 @@ Currently i'm working on socket.io and GSAP.
   - more ...
 
 #### [shapeyou](https://shapeyou.herokuapp.com/)
-> Basically it is made for those people who don't have time to go gym because there busy schedule.
+> Basically it is made for those people who don't have time to go gym because of there busy schedule.
  
  #### key features
  - personal trainer
@@ -34,8 +34,5 @@ Currently i'm working on socket.io and GSAP.
 #### [capstone](https://work.vegihub.in)
 > My capstone project 
 
-#### [vegihub](https:www/vegihub.in)
-> it just a UI
 
-<!--- arunsingh28/arunsingh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
+
