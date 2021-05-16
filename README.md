@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/arunsingh28">Arun Singh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://i.pinimg.com/originals/21/5f/ae/215faef960caf44ed9d18f7b14cb298a.gif">
 
 
 
