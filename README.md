@@ -16,6 +16,13 @@ Currently i'm working on socket.io and GSAP.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&theme=radical&hide_border=true"/><br><br>
 
 
+<strong align="center">💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-JS-lightgrey?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/-React-lightgrey?style=for-the-badge&logo=appveyor"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&langs_count_private=true&theme=radical&card_width=445)<br><br>
+
 
 ### find me around the web 🌎
 > 🤙 instagram [arun.singh28](https://instagram.com/arun.singh28)
