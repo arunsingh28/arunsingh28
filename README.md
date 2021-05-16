@@ -24,6 +24,12 @@ Currently i'm working on socket.io and GSAP.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsingh28&repo=arunsingh28&theme=radical)](https://github.com/arunsingh28/arunsingh28)
+</div>
+
+
+
 ### find me around the web 🌎
 > 🤙 instagram [arun.singh28](https://instagram.com/arun.singh28)
 
