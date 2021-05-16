@@ -31,11 +31,8 @@ Currently i'm working on socket.io and GSAP.
 </p>
 
 
-### find me around the web 🌎
-> 🤙 instagram [arun.singh28](https://instagram.com/arun.singh28)
 
-> 💻 Linkedin [arunsingh28](https://www.linkedin.com/in/arunsingh28/)
-
-
+<img src="https://img.shields.io/badge/arunsingh28aug.as@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="https://gmail.com">  
+<a  href="https://www.instagram.com/arun.singh28"><img src="https://img.shields.io/badge/@arun.singh28-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/arunsingh28"><img src="https://img.shields.io/badge/@arun.singh28-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
