@@ -9,30 +9,34 @@
     <img width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
-<div align="center"> 
 
 ## About me 😎 
 
 i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(HTML/CSS/SCSS/JavaScript) and MongoDB.
 Currently i'm working on socket.io and GSAP. 
 
-<strong align="center">📊 My Github Stats :</strong><br><br>
+<!-- <strong align="center">📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&theme=radical&hide_border=true"/><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&theme=radical&hide_border=true"/><br><br> -->
 
 
-<strong>💡 My Languages :</strong><br><br>
+<!-- <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-JS-lightgrey?style=for-the-badge&logo=appveyor"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge&logo=appveyor"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=for-the-badge&logo=appveyor"/>
 <img src="https://img.shields.io/badge/-React-lightgrey?style=for-the-badge&logo=appveyor"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&langs_count_private=true&theme=radical&card_width=445)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&langs_count_private=true&theme=radical&card_width=445)<br><br> -->
+    
 
 
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsingh28&repo=arunsingh28&theme=radical)](https://github.com/arunsingh28/arunsingh28)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html&langs_count=8 alt="Arun Singh" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true" alt="Arun Singh" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&layout=compact" />
 </p>
 
 
