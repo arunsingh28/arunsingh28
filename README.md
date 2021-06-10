@@ -9,9 +9,9 @@
     <img width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 
-
+<div align="center">
+    
 ## About me 😎 
-
 i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(HTML/CSS/SCSS/JavaScript) and MongoDB.
 Currently i'm working on socket.io and GSAP. 
 
