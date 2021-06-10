@@ -1,3 +1,8 @@
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arunsingh28" alt="arunsingh28" /> </p>
+
+
+
 # <h1 align="center">Hi, I'm <a href="https://github.com/arunsingh28">Arun Singh<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
@@ -32,10 +37,6 @@ Currently i'm working on socket.io and GSAP.
 
 
 
-<!-- <img src="https://img.shields.io/badge/arunsingh28aug.as@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="https://gmail.com">  
-<a  href="https://www.instagram.com/arun.singh28">
-    
-    <img src="https://img.shields.io/badge/@arun.singh28-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/arunsingh28"><img src="https://img.shields.io/badge/@arun.singh28-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
     
  <div align="center">   
 <a href="https://www.facebook.com/pratapsingharun">
