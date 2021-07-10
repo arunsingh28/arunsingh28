@@ -12,8 +12,9 @@
 <div align="center">
     
 ## About me 😎 
-i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(HTML/CSS/SCSS/JavaScript) and MongoDB.
+<i>i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(HTML/CSS/SCSS/JavaScript) and MongoDB.
 Currently i'm working on socket.io and GSAP. 
+</i>
 
 <!-- <strong align="center">📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
