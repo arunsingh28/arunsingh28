@@ -28,7 +28,7 @@ Currently i'm working on socket.io and GSAP.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&layout=compact&hide=html&langs_count=8" alt="Arun Singh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&layout=compact&hide=html&langs_count=10" alt="Arun Singh" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true" alt="Arun Singh" />
