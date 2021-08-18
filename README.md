@@ -13,7 +13,7 @@
     
 ## About me 😎 
 <i>i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(HTML/CSS/SCSS/JavaScript) and MongoDB.
-Currently i'm working on socket.io and GSAP. 
+Currently i'm Learning framer motion. 
 </i>
 
 <!-- <strong align="center">📊 My Github Stats :</strong><br><br>
