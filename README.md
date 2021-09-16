@@ -13,7 +13,7 @@
     
 ## About me 😎 
 <i>i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(SCSS/Typescript/MD) and MongoDB.
-Currently i'm Learning PRSIMA 
+Currently i'm Learning PRISMA 
 </i>
 
 <!-- <strong align="center">📊 My Github Stats :</strong><br><br>
