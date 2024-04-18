@@ -7,52 +7,28 @@
     
 <p align="center">
     <img width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
-
-
-<div align="center">
-    
-## About me 😎 
-<i>i'm a web developer who is passionate about computer technologies,i enjoy working with ReactJS,Nodejs,(SCSS/Typescript/MD) and MongoDB.
-Currently i'm Learning PRISMA 
-</i>
-
-<!-- <strong align="center">📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&theme=radical&hide_border=true"/><br><br> -->
-
-
-<!-- <strong>💡 My Languages :</strong><br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&langs_count_private=true&theme=radical&card_width=445)<br><br> -->
-    
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&layout=compact&hide=html&langs_count=10" alt="Arun Singh" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunsingh28&show_icons=true" alt="Arun Singh" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsingh28&layout=compact" />
 </p>
 
+### Languages
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-Php-000?&logo=php)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=Css)
 
-    
- <div align="center">   
-<a href="https://www.facebook.com/pratapsingharun">
-  <img align="center" alt="Arun's facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/arun.singh28">
-  <img align="center" alt="Arun's instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/arunsingh28">
-  <img align="center" alt="Arun's LinkedIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-    </div>
-   <br />Have some laughter
-    
-   ![Jokes Card](https://readme-jokes.vercel.app/api)
-    
-</div>
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
+![Langchain](https://img.shields.io/badge/-Langchain-000?&logo=langchain)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arunsingh28&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsingh28&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
